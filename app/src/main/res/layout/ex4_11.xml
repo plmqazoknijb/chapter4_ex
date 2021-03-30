@@ -17,8 +17,8 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="50dp"
-        android:paddingBottom="50dp"
+        android:paddingTop="60dp"
+        android:paddingBottom="60dp"
         android:text="@string/btn_str2"/>
 
 </LinearLayout>
